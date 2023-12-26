@@ -44,7 +44,7 @@ const Home = () => {
                             <div className="bodytext">
                                 <p id='abouttext'>
                                     Our website envisions a cyber-resilient community where individuals and organizations are empowered with the knowledge and skills to navigate the digital landscape safely. We strive to foster a culture of cybersecurity awareness that transcends barriers, creating a robust defense against evolving online threats.<br />
-                                    Our mission is to deliver accessible and practical cyber awareness resources, equipping users with the tools to protect themselves from cyber threats. Through informative content, engaging educational materials, and community collaboration, we aim to demystify cybersecurity, making it an integral part of everyday online activities. By fostering a sense of shared responsibility.</p>
+                                    Our mission is to provide accessible and practical cyber awareness resources, equipping users with the tools to protect themselves from cyber threats. Through informative content, engaging educational materials, and community collaboration, we aim to demystify cybersecurity, making it an integral part of everyday online activities. By fostering a sense of shared responsibility.</p>
                             </div>
                         </div>
                         <div className="aboutcard2">
