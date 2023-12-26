@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "http://localhost:5000";
+const baseURL = "https://cyberawarenessserver.onrender.com";
 
 // Register API
 export const registerfunction = async (data) => {
